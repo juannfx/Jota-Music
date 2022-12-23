@@ -1,8 +1,9 @@
 module.exports = {
     app: {
         token: 'XXX',
-        playing: 'by Jota❤️',
-        global: true
+        playing: 'by Jota ❤️',
+        global: true,
+        guild: 'xxx'
     },
     opt: {
         DJ: {

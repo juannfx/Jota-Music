@@ -1,6 +1,6 @@
 module.exports = {
     app: {
-        token: 'MTA1MzAzNjUyODEwNTk1OTQ1NA.GagB4v.9IFCbrdQR19ylE2cmGIKkF6eCr4mGbxEPwKyyM',
+        token: 'XXX',
         playing: 'by Jota❤️',
         global: true
     },

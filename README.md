@@ -69,7 +69,7 @@ To use the project correctly you will need some tools.
 
 Without forgetting of course the code editor ^^
 
-Realized with ❤️ by [ZerioDev](https://github.com/ZerioDev).
+Realized with ❤️ by [Jota](https://github.com/juannfx).
 
 Please do not withdraw the license and keep the credits on this project.
 

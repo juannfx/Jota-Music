@@ -79,8 +79,6 @@ To have full access to the project and to be able to withdraw the credits a smal
 
 - [ ] lyrics command
 
--  [ ] Vote to skip command https://github.com/ZerioDev/Music-bot/issues/187
-
 - [ ] history commnad
 
 - [ ] auto autocomplete (play, search, filters, ect)
